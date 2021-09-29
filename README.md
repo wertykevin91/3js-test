@@ -1,1 +1,1 @@
-Get your 3d file from sketchfab
+Get your 3d file from sketchfab and put them into the 3d folder.
